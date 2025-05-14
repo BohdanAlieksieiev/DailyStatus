@@ -61,7 +61,6 @@ Before generating reports, you need a free API key from Google AI Studio. Follow
 5. **Step 5: Create your API key**  
    In the next dialog, choose **Create API key in new project** (or select an existing project).  
    Your API key will appear automatically—click **Copy** to save it.  
-   <img src="step5.png" alt="Step 5: Create API key" width="600"/>
 
 > **Tip:**  
 > • Restrict your key to **Generative Language API** under **API restrictions**.  
